@@ -124,13 +124,6 @@
                </View>
              </View>
              </TouchableWithoutFeedback>
- 
-             {/* FOOTER */}
-             {/* <View style={{flex : 1/10}}>
-               <Text>Score Area - Player A : {score.a} Player B : {score.b} </Text>
-               <Text onPress={()=> setGameOn(true)}>{result}</Text>
-               <Text onPress={()=> nextRound()}>Next Round</Text>
-             </View> */}
      </SafeAreaView>
    );
  };
